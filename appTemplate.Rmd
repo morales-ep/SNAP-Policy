@@ -1,0 +1,36 @@
+---
+title: "SNAP Policy Shiny App"
+author: "Earl Morales"
+date: "10/26/2020"
+output: html_document
+---
+
+# SNAP POLICY DATABASE SHINY APP
+- This Markdown file will serve as the template for the final Shiny application
+  - Refer to STS115 labs for help/guidance
+
+
+### Load necessary packages
+```{r packages, echo = FALSE, message = FALSE}
+library(tidyverse)
+library(lubridate)
+library(readxl) # To read excel file from Github repo
+library(shiny)
+library(shinydashboard)
+library(shinyWidgets)
+```
+
+
+## Data Wrangling
+```{r}
+# Import SNAP dataset directly from Github Repo
+#snap <- read_excel(path = "https://github.com/morales-ep/raw/master/SNAP-Policy/SNAP_Policy_Database.xlsx")
+
+# Brief assessment of dataset
+#glimpse(snap)
+
+# Clean the data
+# Fill missing values w/ NAs 
+# Convert yearmonth variable to appropriate data type
+```
+
