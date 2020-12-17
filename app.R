@@ -5,7 +5,7 @@
 
 library(tidyverse) # ggplot2, dplyr, forcats
 library(lubridate) # Date-time handling
-library(plotly) # For interactive choropleth matp
+library(plotly) # For interactive graphs
 library(shiny)
 library(shinydashboard)
 
