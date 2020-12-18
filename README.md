@@ -10,7 +10,8 @@ This is the main directory for a dashboard project that used the [SNAP Policy Da
 ### Project Motivation
 The purpose of this project is to provide an analysis of SNAP policies over a 20 year span, from 1996 to 2016, through data visualizations presented via R Shiny dashboard. Several socioeconomic crises have been accentuated and further compounded in light of the COVID-19 pandemic including widespread [Food Insecurity in the United States.](https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305953). The goal of this project is to highlight SNAP policies that may influence SNAP household participation and help address food insecurity caused by natural disasters and/or economic catastrophies.
 
-This GitHub repository contains code of analysis, data visualizations, and the R Shiny dashboard. This project expanded on an academic project completed in Spring Quarter 2020 for the [Science & Technology Studies 115](https://sts.ucdavis.edu/courses/data-studies) course at the [University of California, Davis](https://www.ucdavis.edu).
+This GitHub repository contains a spreadsheet data file and code for analysis, data visualizations, and the R Shiny dashboard. This project expanded on an academic project completed in Spring Quarter 2020 for the [Science & Technology Studies 115](https://sts.ucdavis.edu/courses/data-studies) course at the [University of California, Davis](https://www.ucdavis.edu). **The dashboard was designed for policy analysts and individuals possessing domain knowledge of SNAP.**
+
 
 ## About SNAP and Food Security
 The *Supplemental Nutrition Assistance Program* (SNAP), previously known as the Food Stamp Program, is the largest federally funded nutrition assistance program in the United States but is administered in partnership with the States including the District of Columbia. SNAP provides benefits to eligible low-income individuals and families via an Electronic Benefits Transfer card.
