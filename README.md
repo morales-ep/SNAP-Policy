@@ -86,6 +86,11 @@ The *Supplemental Nutrition Assistance Program* (SNAP), previously known as the 
   - More information about the SNAP Policy Database [here](https://www.ers.usda.gov/data-products/snap-policy-data-sets/about-the-snap-policy-database/)
 
 
+### Directory Structure
+* [code](https://github.com/morales-ep/SNAP-Policy/tree/master/code) - Folder containing an R Markdown file of the blueprint/template for the final R Shiny app , i.e., analysis prior to implementing code in R Shiny, and an R script file containing code for the final Shiny app
+* [images](https://github.com/morales-ep/SNAP-Policy/tree/master/images) - Folder containing screenshots of the R Shiny dashboard; images only capture highlights of the dashboard, not the entire dashboard
+
+
 # References
 1. Economic Research Service (ERS), U.S. Department of Agriculture (USDA). SNAP Policy Database, SNAP Policy Data Sets. https://www.ers.usda.gov/data-products/snap-policy-data-sets/
 2. Julia A. Wolfson, Cindy W. Leung, “Food Insecurity During COVID-19: An Acute Crisis With Long-Term Health Implications”, American Journal of Public Health 110, no. 12 (December 1, 2020): pp. 1763-1765. https://doi.org/10.2105/AJPH.2020.305953
